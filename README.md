@@ -9,3 +9,4 @@ In this analysis:
 
 By focusing on these factors, this study provides an informed view of the movie industry and aids in understanding which elements drive success in the entertainment sector.
 
+Here is the dataset link : https://www.kaggle.com/datasets/danielgrijalvas/movies/data
